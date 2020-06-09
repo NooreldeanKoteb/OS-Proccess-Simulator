@@ -1,6 +1,5 @@
 /* Fill in your Name and GNumber in the following two comment fields
  * Name: Nooreldean Koteb
- * GNumber: G01085380
  */
 
 #include <stdio.h>
